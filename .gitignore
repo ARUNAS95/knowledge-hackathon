@@ -1,0 +1,14 @@
+results/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+snapshots/0*/
+.venv/
+submission/.cache/
+.cache/
+snapshots_zip/
+.idea/
+Knowledge-Hackathon-Assignment.pdf
+run.sh
+fresh_test.sh

@@ -1,0 +1,13 @@
+[
+  {"id": "c-mortgage-homebuying-guidance", "topic_keywords": ["home loan", "mortgage", "homebuying"], "values": ["6.000%", "6.037%"]},
+  {"id": "c-mortgage-checking-page", "topic_keywords": ["home loan", "mortgage"], "values": ["5.875%", "5.912%"]},
+  {"id": "c-refinance-mortgage-refi", "topic_keywords": ["refinance"], "values": ["6.000%", "6.049%"]},
+  {"id": "c-auto-calculator", "topic_keywords": ["auto"], "values": ["5.34%", "5.39%"], "correct_value": "5.39%"},
+  {"id": "c-auto-checking-page", "topic_keywords": ["auto"], "values": ["5.34%", "5.39%"], "correct_value": "5.39%"},
+  {"id": "c-checking-promo-landing", "topic_keywords": ["checking"], "values": ["3.00%", "2.50%"], "correct_value": "2.50%"},
+  {"id": "c-share-savings-10k-tier", "topic_keywords": ["share savings"], "values": ["0.15%", "0.20%"], "correct_value": "0.15%"},
+  {"id": "c-certificate-special-business-rates", "topic_keywords": ["certificate", "special"], "values": ["3.91%", "4.01%"], "correct_value": "4.01%"},
+  {"id": "c-rates-vs-home-loans-apr", "topic_keywords": ["home loan"], "values": ["6.256%", "6.262%"]},
+  {"id": "c-footer-branch-count", "topic_keywords": ["branch"], "values": ["22", "24"], "correct_value": "22"},
+  {"id": "c-footer-county-count", "topic_keywords": ["counties"], "values": ["118", "112"], "correct_value": "118"}
+]

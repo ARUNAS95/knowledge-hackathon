@@ -1,0 +1,9 @@
+# Python 3.11+ (checked to resolve for 3.11 on macOS arm64 and Linux x86_64/aarch64).
+# The LLM client uses only the standard library (http.client); no openai package needed.
+fastembed==0.9.0        # bge-small embeddings via ONNX (downloads the model on first run)
+onnxruntime==1.31.0
+tokenizers==0.23.3
+lancedb==0.40.0         # vector store
+pyarrow==26.0.0
+numpy>=2.0,<2.5         # numpy 2.5 needs Python 3.12; 2.4.x is the newest line with 3.11 wheels
+certifi                 # CA bundle for the HTTPS call to the LLM API
